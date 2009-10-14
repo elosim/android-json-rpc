@@ -7,7 +7,7 @@ The library provides the class JSONRPCHttpClient to perform JSON-RPC method call
 
 
 {{{
-JSONRPCHttpClient client = new JSONRPCHttpClient("http://service/uri");
+JSONRPCClient client = JSONRPCClient.create("http://service/uri");
 
 try 
 {
