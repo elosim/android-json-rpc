@@ -13,7 +13,8 @@ JSONRPCHttpClient client = new JSONRPCHttpClient("http://service/uri");
 
 try 
 {
-  String string = client.callString("mymethod"); double d = client.callDouble("pow", x, y);
+  String string = client.callString("mymethod");
+  double d = client.callDouble("pow", x, y);
   int i = client.callInt("add", 56, 25); ...
 }
 catch (JSONRPCException e)
