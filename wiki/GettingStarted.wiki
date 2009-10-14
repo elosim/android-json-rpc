@@ -2,6 +2,10 @@
 
 This open source library aims to help the implementation of JSON-RPC clients in android applications.
 
+== Installation ==
+Download [http://android-json-rpc.googlecode.com/files/android-json-rpc.jar android-json-rpc.jar] to the directory of your choice. In eclipse, right-click on your android project and select Build Path -> Add external archives and pick the downloded jar file.
+
+
 == Getting started ==
 The library provides the class JSONRPCClient to perform JSON-RPC method calls on remote services.
 
