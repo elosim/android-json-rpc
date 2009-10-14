@@ -1,10 +1,9 @@
 == Introduction ==
 
-This open source library aims to help the implementation of JSON-RPC clients in android applications. 
+This open source library aims to help the implementation of JSON-RPC clients in android applications.
 
 == Getting started ==
-The library provides the class JSONRPCHttpClient to perform JSON-RPC method calls on remote services.
-
+The library provides the class JSONRPCClient to perform JSON-RPC method calls on remote services.
 
 {{{
 JSONRPCClient client = JSONRPCClient.create("http://service/uri");
@@ -20,3 +19,6 @@ catch (JSONRPCException e)
   e.printStackTrace();
 }
 }}}
+
+Currently the library supports only JSON-RPC call over HTTP.
+Support for TCP/IP would be interesting for creating efficient web services 
