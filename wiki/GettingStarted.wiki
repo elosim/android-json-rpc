@@ -1,10 +1,8 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
+== Introduction ==
 
 This open source library aims to help the implementation of JSON-RPC clients in android applications. 
 
-= Getting started =
+== Getting started ==
 The library provides the class JSONRPCHttpClient to perform JSON-RPC method calls on remote services.
 
 
