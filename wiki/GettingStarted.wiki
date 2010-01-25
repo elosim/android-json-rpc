@@ -14,7 +14,8 @@ The library provides the class JSONRPCClient to perform JSON-RPC method calls on
 
 {{{
 JSONRPCClient client = JSONRPCClient.create("http://service/uri");
-
+client.setConnectionTimeout(2000);
+client.setSoTimeout(2000);
 try 
 {
   String string = client.callString("mymethod");
