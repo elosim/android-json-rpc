@@ -18,7 +18,8 @@ That's all.
 The library provides the class JSONRPCClient to perform JSON-RPC method calls on remote services.
 
 {{{
-JSONRPCClient client = JSONRPCClient.create("http://service/uri");
+// Create client specifying JSON-RPC version 2.0
+JSONRPCClient client = JSONRPCClient.create("http://service/uri", JSONRPCClient.Versions.VERSION_2);
 client.setConnectionTimeout(2000);
 client.setSoTimeout(2000);
 try 
