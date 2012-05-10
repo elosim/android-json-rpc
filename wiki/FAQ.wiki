@@ -26,7 +26,7 @@ You can pass credential as parameters of your request. This if you need credenti
 This feature will be added in Version 0.4. Thanks to stu.axon. Refer to the [PassingCredential Passing Credential] page in this wiki.
 
 == How to create your own JAR from downloaded code ==
-Please refer to the [HowBuildJar How to build your own JAR] page in this wiki
+Please refer to the [HowBuildJar  How to build your own JAR] page in this wiki
 
 == Does this library support nested arrays ? ==
 This feature has been added in version 3.1
