@@ -34,5 +34,7 @@ catch (JSONRPCException e)
 }
 }}}
 
+For Complete documentation, download it on this site or look at [Documentation documentation] page on this wiki.
+
 Currently the library supports only JSON-RPC call over HTTP.
 Support for TCP/IP would be interesting for creating efficient web services 
