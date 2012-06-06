@@ -1,4 +1,7 @@
 #labels Featured,Phase-Requirements
+== Forewords ==
+Please use [http://www.stackoverflow.com stackoverflow] using the tag "android-json-rpc" for your questions on the library. Thank you
+
 == Introduction ==
 
 This open source library aims to help the implementation of JSON-RPC clients in android applications.
