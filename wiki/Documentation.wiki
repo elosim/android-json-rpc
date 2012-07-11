@@ -16,7 +16,7 @@ This abstract class define function you can call as JSON calls as callJSONArray,
 == JSONRPCException ==
 this class inherit from Exception. This is class is used when raising an exception which is specific to this library.
 
-== JSONRPCHTTPClient ==
+== JSONRPCHttpClient ==
 this class implements abstract function from JSONRPCClient. It permits to use the HTTP protocol to make your call to your JSON API.
 
 == JSONRPCParams == 
