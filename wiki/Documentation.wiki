@@ -3,12 +3,12 @@
 
 = Introduction =
 
-Here is a basic introduction to the documentation of this library. If you want or need more, you can access it [here http://code.google.com/p/android-json-rpc/source/browse/#svn%2Ftrunk%2Fandroid-json-rpc%2Fdoc%253Fstate%253Dclosed] or dowload it using SVN (you will find how to do this [here http://code.google.com/p/android-json-rpc/source/checkout] or if you prefer you can download it as a ZIP archive [here http://code.google.com/p/android-json-rpc/downloads/detail?name=doc-0.3.3.zip&can=2&q=#makechanges]
+Here is a basic introduction to the documentation of this library. If you want or need more, you can access it [http://code.google.com/p/android-json-rpc/source/browse/#svn%2Ftrunk%2Fandroid-json-rpc%2Fdoc%253Fstate%253Dclosed here] or dowload it using SVN (you will find how to do this [http://code.google.com/p/android-json-rpc/source/checkout here] or if you prefer you can download it as a ZIP archive [http://code.google.com/p/android-json-rpc/downloads/detail?name=doc-0.3.3.zip&can=2&q=#makechanges here].
 
 = Details =
 
 == JSONEntity ==
-This class inherit from StringEntity, it define the entity that will be send to the serveur throught the HTTP protocol
+This class inherit from [http://developer.android.com/reference/org/apache/http/entity/StringEntity.html StringEntity], it define the entity that will be send to the serveur throught the HTTP protocol
 
 == JSONRPCClient ==
 This abstract class define function you can call as JSON calls as callJSONArray, callJSONObject, callInt, callLong and more. This class does not care about the protocol used. That must be defined by classes inheriting from it.
