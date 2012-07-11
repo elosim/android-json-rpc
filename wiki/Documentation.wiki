@@ -3,7 +3,7 @@
 
 = Introduction =
 
-Here is a basic introduction to the documentation of this library. If you want or need more, you can access it [http://code.google.com/p/android-json-rpc/source/browse/#svn%2Ftrunk%2Fandroid-json-rpc%2Fdoc%253Fstate%253Dclosed here] or dowload it using SVN (you will find how to do this [http://code.google.com/p/android-json-rpc/source/checkout here] or if you prefer you can download it as a ZIP archive [http://code.google.com/p/android-json-rpc/downloads/detail?name=doc-0.3.3.zip&can=2&q=#makechanges here].
+Here is a basic introduction to the documentation of this library. If you want or need more, you can access it [http://code.google.com/p/android-json-rpc/source/browse/#svn%2Ftrunk%2Fandroid-json-rpc%2Fdoc%253Fstate%253Dclosed here] or dowload it using SVN (you will find how to do this [http://code.google.com/p/android-json-rpc/source/checkout here]) or if you prefer you can download it as a ZIP archive [http://code.google.com/p/android-json-rpc/downloads/detail?name=doc-0.3.3.zip&can=2&q=#makechanges here].
 
 = Details =
 
