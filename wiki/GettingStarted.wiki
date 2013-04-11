@@ -5,6 +5,7 @@ Please use [http://www.stackoverflow.com stackoverflow] using the tag "android-j
 == Introduction ==
 
 This open source library aims to help the implementation of JSON-RPC clients in android applications.
+For those who ask, this is only an Android client, there is no server side in there. You can use any server side JSON RPC library or language. For any question about a JSON RPC server for Java you can look at this project: https://code.google.com/p/jsonrpc4j/
 
 == Installation ==
 Download [http://android-json-rpc.googlecode.com/files/android-json-rpc-0.2.jar latest android-json-rpc.jar] to the directory of your choice.
