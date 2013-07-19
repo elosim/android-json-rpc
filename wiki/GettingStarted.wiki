@@ -42,3 +42,7 @@ For Complete documentation, download it on this site or look at [Documentation d
 
 Currently the library supports only JSON-RPC call over HTTP.
 Support for TCP/IP would be interesting for creating efficient web services 
+
+
+== Donations ==
+If you want to support our project, don't hesitate to make a donation via the following web site: [Donate http://android-json-rpc.blogspot.ch/2013/07/donations.html]
