@@ -45,4 +45,4 @@ Support for TCP/IP would be interesting for creating efficient web services
 
 
 == Donations ==
-If you want to support our project, don't hesitate to make a donation via the following web site: [Donate http://android-json-rpc.blogspot.ch/2013/07/donations.html]
+If you want to support our project, don't hesitate to make a donation via the following web site: [http://android-json-rpc.blogspot.ch/2013/07/donations.html Donate]
